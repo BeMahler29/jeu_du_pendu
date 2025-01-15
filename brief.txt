@@ -1,0 +1,30 @@
+Bonjour, voici mon premier projet passerelle.
+
+Il s'agit d'un jeu du pendu où l'on doit deviner un mot en proposant des lettres et/ou mots.
+
+J'ai dessiné moi-même le personnage sur Inkscape et créer les différents .svg afin que cela fonctionne. Cela m'a pris 3 soirées pour découvrir comment faire un .svg, apprendre les bases de Inkscape et dessiner le personnage.
+
+J'ai créer les fonctionnalités suivantes:
+
+    - Il est normalement impossible de proposer 2 fois le même mot ou la même lettre.
+    - Il y a une fonction qui permet de recommencer.
+    - Il est normalement impossible de proposer un chiffre, une lettre majuscule, un symbole ou une touche du genre "HOME" ou "F1".
+
+J'avais imaginé 2 fonctionnalités en plus mais des événements récents ont fait que non :
+
+    - Possibilités de choisir un thème sur les mots à trouver
+    - Créer un bouton qui permettrait un "niveau 2" en cachant les lettres et mots déjà proposés et de désactiver la fonctionnalité des doublons. Ce qui obligerait l'utilisateur de devoir se souvenir de ce qu'il a déjà proposé
+
+
+Problèmes rencontrés:
+
+    - Au début, j'avais créer la feuille de style en ayant une résolution d'écran de 2560x1440. J'ai pu donc refaire mes Media Queries avec un affichage plus standard de 1920x1080.
+    - J'avais également utiliser la fonction NaN() pour permettre uniquement les lettres. Mais on pouvais proposer des majuscules ainsi que toutes les touches fonctions, home, print, ctrl, etc.. J'ai donc du trouver une solution sur un forum internet.
+    - Je me suis également beaucoup aider du site "https://developer.mozilla.org/". Principalement pour la fonction map() et fill().
+
+
+
+
+J'espère que vous aurez autant de plaisir à corriger ce projet que moi à le faire.
+
+Bertrand Mahler

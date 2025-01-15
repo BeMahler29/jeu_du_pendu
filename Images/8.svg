@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <pattern
+       xlink:href="#Strips1_2"
+       preserveAspectRatio="xMidYMid"
+       id="pattern17"
+       patternTransform="matrix(0.35355339,0.35355339,-0.35355339,0.35355339,0,0)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2"
+       style="fill:#000000">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146" />
+    </pattern>
+    <pattern
+       xlink:href="#Strips1_5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern60"
+       patternTransform="matrix(0.28991378,0.28991378,-0.28991378,0.28991378,0,0)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_5"
+       style="fill:#731515">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect164" />
+    </pattern>
+  </defs>
+  <g
+     id="layer9">
+    <rect
+       style="fill:#aa4400;stroke:#73360c;stroke-width:0.395081"
+       id="rect1"
+       width="249.60492"
+       height="19.604919"
+       x="0.19754027"
+       y="492.19754" />
+  </g>
+  <g
+     id="layer1">
+    <g
+       id="Potence">
+      <rect
+         style="fill:#aa4400;stroke:#73360c;stroke-width:0.387719"
+         id="rect2"
+         width="19.612282"
+         height="491.61227"
+         x="115.19386"
+         y="0.0048829587" />
+      <rect
+         style="fill:#aa4400;stroke:#73360c;stroke-width:0.391506"
+         id="rect3"
+         width="249.60851"
+         height="19.608494"
+         x="135.19576"
+         y="0.0067764493" />
+      <path
+         style="mix-blend-mode:darken;fill:url(#pattern60);fill-opacity:1;stroke:#000000;stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1"
+         d="M 363.37596,62.199488 V 20.078431 h 3.05541 3.05542 v 42.121057 42.121062 h -3.05542 -3.05541 z"
+         id="path5" />
+      <path
+         style="fill:#ff7f2a;fill-opacity:1;stroke:#000000;stroke-width:0.991;stroke-dasharray:none;stroke-opacity:1"
+         d="M 135,80.610173 195.9949,19.61527 h 26.03663 l -87.22539,87.22538 z"
+         id="path65" />
+      <path
+         style="fill:url(#pattern17);fill-opacity:1;stroke:#000000;stroke-width:0.391;stroke-dasharray:none"
+         d="m 375.36707,172.59509 -0.0625,2.65491 c 0,0 -6.737,1.89058 -9.67958,1.875 -2.94257,-0.0156 -8.34972,-1.4375 -8.34972,-1.4375 l 0.10366,-2.88817 z"
+         id="path16" />
+    </g>
+  </g>
+</svg>

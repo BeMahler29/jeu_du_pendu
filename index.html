@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="Images/favicon.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap" rel="stylesheet">
+    <title>Jeu du Pendu</title>
+</head>
+<body>
+    
+    <h1>LE JEU DU PENDU</h1>
+
+    <div class="grille">
+
+        <div id="mot">
+            <div id="affichageMot">_________</div>
+            <div id="message"></div>
+        </div>
+        
+        <div id="proposition">
+            <input type="text" placeholder="Proposition">
+            <button type="button">OK</button>
+        </div>      
+        
+        <div id="lettresProposees">
+            <h2>Lettres Proposées :</h2>
+
+        </div>
+
+        <div id="motsProposes">
+            <h2>Mots Proposés :</h2>
+
+        </div>
+        
+        <div id="potence">
+            
+            <h3 id="erreurs">Erreurs restantes: </h3>
+             <img id="pendu" src="#" alt="">
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
